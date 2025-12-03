@@ -169,7 +169,8 @@
 
                 <div class="container text-center bermula-section">
 
-                    <div class="img-value-2">
+                    <div class="img-value-2"  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                         <video width="320" height="240" autoplay muted loop playsinline class="video-nikah" style="rotate: 10deg;">
                             <source src="asset/img/bermula.MOV" type="video/mp4" class="rounded">
                         </video>
@@ -188,7 +189,8 @@
                 </div>
 
                 <div class="container text-center d-flex justify-content-center flex-column surat-section">
-                    <div class="row">
+                    <div class="row"  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                         <div class="col-2"></div>
                         <div class="col-8">
                             <img src="asset/img/akhir.png" class="img-fluid w-50" alt="">
@@ -206,11 +208,13 @@
                 <div id="mempelai" class="container main-bg text-center text-dark">
                     <img src="asset/img/top.png" class="img-fluid w-100" alt="">
 
-                    <h2 class=" text-dark" style="z-index: 10; ">
+                    <h2 class=" text-dark" style="z-index: 10; "  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                         Our Wedding
                     </h2>
 
-                    <video width="300" height="220" autoplay muted loop playsinline class="video-nikah">
+                    <video width="300" height="220" autoplay muted loop playsinline class="video-nikah"  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                         <source src="asset/img/nikah.MOV" type="video/mp4" class="rounded">
                     </video>
 
@@ -254,13 +258,15 @@
                     <!-- informasi -->
                     <div id="acara" class="row text-dark pb-5">
                         <div class="col-12 px-3">
-                            <h3 class="text-gold text-decor">Save The Date</h3>
-                            <img src="asset/img/logosa.png" class="img-fluid w-25 my-2 rounded-circle" alt="">
+                            <h3 class="text-gold text-decor"  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">Save The Date</h3>
+                            <img src="asset/img/logosa.png" class="img-fluid w-25 my-2 rounded-circle" alt=""  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                             <div class="card bg-transparent border-0" data-aos="fade-up" data-aos-delay="200" data-aos-duration="2000">
                                 <div class="card-body">
                                     <h4 class="card-title">Akad Nikah</h4>
                                     <p class="card-text mt-2 mb-2 text-secondary">
-                                        Ahad, 15 Desember 2025
+                                        Ahad, 14 Desember 2025
                                     </p>
                                     <p class="card-text mb-2 text-secondary">
                                         Pukul 08:00 - Selesai
@@ -291,7 +297,8 @@
 
                 <!-- wedding gift -->
                 <div class="container text-center gift-section">
-                    <h2 class=" mt-5 text-dark" style="z-index: 10; rotate: -10deg;">
+                    <h2 class=" mt-5 text-dark" style="z-index: 10; rotate: -10deg;"  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                         Our Location
                     </h2>
                     <!-- maps -->
@@ -306,7 +313,8 @@
 
                     <img src="asset/img/flowers.png" class="img-fluid w-25" alt="">
 
-                    <h2 class=" mt-5 text-dark" style="z-index: 10; rotate: -10deg;">
+                    <h2 class=" mt-5 text-dark" style="z-index: 10; rotate: -10deg;"  data-aos="fade-up"
+                            data-aos-duration="2000" data-aos-delay="200">
                         Wedding Gift
                     </h2>
 
