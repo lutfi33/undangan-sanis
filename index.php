@@ -101,14 +101,14 @@
                         <small>Dear to : </small>
                         <h4 class="my-3">Tamu Undangan</h4>
                         <a href="#open" id="btn-open" class="btn btn-light bg-gold border-0 mx-5"><i class="bi bi-envelope-open-heart">&ensp;</i>Buka Undangan</a>
-                        <p class="mt-3">Kamu Diundang!! <br>Dihari bahagiannya Sannis & Dika</p>
+                        <p class="mt-3 pb-5">Kamu Diundang!! <br>Dihari bahagiannya Sannis & Dika</p>
                     </div>
                 </div>
 
                 <!-- Caption -->
                 <div id="caption" class="container bg-mood">
 
-                    <div class="row text-center text-white">
+                    <div id="open" class="row text-center text-white">
                         <div class="col-12">
                             <!-- <p>
                                 "Allah menciptakan pasangan hidup untukmu dari jenismu sendiri, supaya kamu mencari ketenangan kepadanya, dan Dia menjadikan di antaramu rasa kasih sayang dan belas kasihan."
@@ -151,7 +151,7 @@
                             <div class="col-2"></div>
                         </div>
                     </div>
-                    <section id="open" class="pt-4 " data-aos="fade-zoom-in"
+                    <section  class="pt-4 " data-aos="fade-zoom-in"
                         data-aos-anchor-placement="center-bottom" data-aos-delay="200" data-aos-duration="2000" style="rotate: -7deg;">
                         <div class="row">
                             <div class="col-2"></div>
